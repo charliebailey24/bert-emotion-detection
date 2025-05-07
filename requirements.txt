@@ -3,12 +3,10 @@ torchvision
 torchaudio
 transformers
 datasets
-accelerate
 scikit-learn
 pandas
 seaborn
 matplotlib
-tqdm
 numpy
-gensim
-nltk
+tqdm
+evaluate
